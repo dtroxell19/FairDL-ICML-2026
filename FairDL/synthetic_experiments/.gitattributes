@@ -1,0 +1,2 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
+/Users/davidtroxell/Desktop/FairDL/synthetic_experiments/trained_models_batch_size_256 filter=lfs diff=lfs merge=lfs -text

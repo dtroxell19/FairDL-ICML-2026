@@ -1,6 +1,6 @@
 # FairDL
 
-This repository contains the code for numerical experiments described in the paper "Differentiable Optimization Layers for Guaranteed Fairness in Deep Learning." Each folder in the repository corresponds to one of three numerical experiments, and each operates independently (i.e. self-contained and has its own README.md).
+This repository contains the code for numerical experiments described in the paper "Differentiable Optimization Layers for Guaranteed Fairness in Deep Learning." Each folder in the repository corresponds to one of numerical experiments, and each operates independently (i.e. self-contained and has its own README.md).
 
 # Getting Started
 **Note:** This repository uses Git LFS for large model files. Make sure Git LFS is installed before cloning:

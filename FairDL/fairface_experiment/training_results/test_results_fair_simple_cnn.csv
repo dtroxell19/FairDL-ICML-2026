@@ -1,0 +1,2 @@
+loss,accuracy,max_pairwise_gap,logit_std,constraint_satisfied,total_training_time_sec,num_epochs,model_type,backbone,head,lora,freeze_backbone
+0.598424650373913,0.6728980654761905,2.644956111907959e-05,1.092340111732483,True,6051.6,37,fair,simple_cnn,mlp,False,False

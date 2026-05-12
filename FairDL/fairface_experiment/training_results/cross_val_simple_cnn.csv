@@ -1,0 +1,2 @@
+lambda,val_loss,val_accuracy,val_max_gap,val_logit_std,constraint_satisfied,time_sec
+10000.0,0.689941,0.540246,0.001529,0.006061,False,442.3

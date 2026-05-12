@@ -1,0 +1,2 @@
+loss,accuracy,max_pairwise_gap,logit_std,constraint_satisfied,total_training_time_sec,num_epochs,model_type,backbone,head,lora,freeze_backbone,penalty_lambda
+0.6937803626060486,0.5014204382896423,1.623481512069702e-05,0.0003399423439987004,True,2840.47,4,strict_penalty,vit_b_16,mlp,True,False,10000.0

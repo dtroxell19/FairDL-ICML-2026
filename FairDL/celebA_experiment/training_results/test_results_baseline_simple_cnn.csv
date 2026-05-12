@@ -1,0 +1,2 @@
+loss_raw,loss_proj,accuracy_raw,accuracy_proj,gap_raw,gap_proj,logit_std_raw,logit_std_proj,constraint_satisfied,solver_status,total_training_time_sec,num_epochs,model_type,backbone,head,lora,freeze_backbone
+0.3469570279121399,0.4142023026943207,0.8422788381576538,0.8087966442108154,1.4684301912784576,0.0006363987922668457,2.7679336071014404,2.6336255073547363,True,optimal,3104.43,15,baseline,simple_cnn,mlp,False,False
